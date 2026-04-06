@@ -1,6 +1,6 @@
 {
   "f4-core": {
-    "version": "1.0.4",
+    "version": "1.0.3",
     "changelog": "## F4 Core — Changelog (05.04.2026)\n\n### Added\n- Ambulance job detection\n- f4-communityservice integration links\n\n### Improved\n- General performance optimizations"
   },
   "f4-spraypaint": {

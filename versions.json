@@ -4,9 +4,8 @@
     "changelog": "## F4 Core — Changelog (05.04.2026)\n\n### Added\n- Ambulance job detection\n- f4-communityservice integration links\n\n### Improved\n- General performance optimizations"
   },
   "f4-spraypaint": {
-    "version": "1.1.2",
-    "changelog": "## F4 Spray Paint — Changelog (18.06.2026)\n\n### Improvements\n\nOptimization Improvements\nImproved overall performance and resource optimization across the spray system.\n\n---\n\n### Bug Fixes\n\nConfig.UseItem Check\nFixed an issue where item checks were still being performed even when `Config.UseItem` was set to `false`.\n\nLive Preview Stability\nFixed an issue that could cause players to disconnect from the server while using the Live Preview feature.\n\n---\n\n### Internal Changes\n\n- Improved performance in core spray painting systems\n- Optimized validation and item checking logic\n- Improved Live Preview synchronization and stability"
-  },
+    "version": "1.1.3",
+    "changelog": "## F4 Spray Paint — Changelog (25.06.2026)\n\n### New Features\n\nPaint Bucket Tool\nAdded a new Paint Bucket Tool that allows players to instantly fill the entire background with any selected color.\n\nUI Crosshair\nAdded a crosshair to the painting UI for improved drawing precision.\n\n---\n\n### Bug Fixes\n\nSpray Replacement\nFixed an issue where players were unable to create a new spray after deleting an existing one.\n\n---\n\n### Internal Changes\n\n- Added the Paint Bucket Tool\n- Added a UI crosshair for more accurate painting\n- Improved spray replacement logic after deletion"  },
   "f4-factory" : {
     "version" : "1.0.0",
     "changelog": ""
